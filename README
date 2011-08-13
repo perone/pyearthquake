@@ -1,0 +1,8 @@
+This is the Python pyearthquake module.
+
+This module is used to parse/retrieve USGS and MODIS RapidFire data.
+
+For more information and examples, see:
+
+http://pyevolve.sourceforge.net/wordpress/?p=1013
+http://pyevolve.sourceforge.net/wordpress/?p=1471
